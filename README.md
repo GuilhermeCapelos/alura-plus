@@ -2,8 +2,9 @@
 Projeto Alura Plus feito durante o curso da Alura HTML e CSS: praticando HTML/CSS
 
 Site simples apenas com foco em praticar o HTML e o CSS.
-Nesse projeto aprendi sobre 
-<l1>Reutilizar estilos através das classes.
+Nesse projeto aprendi sobre
+<li>
+<l1>Reutilizar estilos através das classes. 
 <li>Diversas maneiras de determinar os valores e as direções das margens dentro da propriedade margin.
 <li>Atribuir mais de uma classe nos elementos para incluir novas estilizações além das existentes.
 <li>Usar flexbox e seu significado.
